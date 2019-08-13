@@ -1,0 +1,20 @@
+h1{
+    font-stretch: expanded;
+    text-decoration-line: underline;
+    color: darkblue;
+}
+
+.intro{
+    font-family: initial;
+    font-style: italic;
+    color: rgb(92, 53, 61);
+}
+.p.intro{
+    font-family: initial;
+    color: rgb(71, 59, 40);
+}
+.conclusion{
+    font-family: initial;
+    color: rgb(71, 59, 40);
+}
+
